@@ -1,0 +1,21 @@
+/* NanumBarunpen Webfont https://github.com/KeepSOBP/NanumBarunpen */
+@font-face {
+  font-family: "NanumBarunpen";
+  font-style: normal;
+  font-weight: 400;
+  src: url("nanumbarunpenR.eot"), /* IE9 Compat Modes */
+    url("nanumbarunpenR.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("nanumbarunpenR.woff2") format("woff2"), /* Modern Browsers */
+    url("nanumbarunpenR.woff") format("woff"), /* Modern Browsers */
+    url("nanumbarunpenR.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "NanumBarunpen";
+  font-style: normal;
+  font-weight: 700;
+  src: url("nanumbarunpenB.eot"), /* IE9 Compat Modes */
+    url("nanumbarunpenB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("nanumbarunpenB.woff2") format("woff2"), /* Modern Browsers */
+    url("nanumnarunpenB.woff") format("woff"), /* Modern Browsers */
+    url("nanumbarunpenB.ttf") format("truetype"); /* Safari, Android, iOS */
+}
