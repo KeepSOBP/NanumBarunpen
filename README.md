@@ -16,20 +16,20 @@ https://hangeul.naver.com/2017/nanum
 link 방식 (권장)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.staticaly.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.statically.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css">
 ```
 
 import 방식
 
 ```css
-@import url('https://cdn.staticaly.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css');
+@import url('https://cdn.statically.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css');
 ```
 
 #### # 일반
-https://cdn.staticaly.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.css
+https://cdn.statically.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.css
 
 #### # 최소 버전
-https://cdn.staticaly.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css
+https://cdn.statically.io/gh/KeepSOBP/NanumBarunpen/master/nanumbarunpen.min.css
 
 ### css 적용방법
 
